@@ -127,4 +127,11 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>
 </p>
+
+### 🌟 GitHub Highlights
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Helmy-JR&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<!--[![Maryem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Helmy-JR&show_icons=true&theme=radical)](https://github.com/Helmy-JR)-->
+
 <hr>
