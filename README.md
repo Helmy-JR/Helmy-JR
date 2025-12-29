@@ -1,9 +1,9 @@
 # Abdelrahman Mohamed Helmy
 
 ## 🌀 About Me :
-I’m Abdelrahman Helmy, a Software Engineer specializing in Backend Development. I work mainly with Node.js, Express.js, and MongoDB, with experience in designing RESTful APIs, managing databases, and ensuring code quality, readability, and maintainability.
+I’m Abdelrahman Helmy, a Junior Backend Software Engineer with a strong focus on backend development. I work mainly with Node.js and ASP.NET Core, with hands-on experience in building RESTful APIs, structuring backend projects, and working with databases while maintaining clean, readable, and maintainable code.
 
-I’m passionate about solving backend challenges, optimizing performance, and creating efficient system architectures. Always eager to learn new technologies and expand my expertise, I strive to deliver impactful solutions that drive value for users and businesses.
+I’m passionate about solving backend challenges, optimizing performance, and designing efficient system architectures. Always eager to learn and grow, I strive to contribute to real-world backend systems and deliver impactful solutions for users and businesses.
 ## 📄 My Resume
 <p align="center">
     &emsp;
